@@ -1,4 +1,4 @@
 {
  "command": "",
- "whiteListAccounts": ["the.do", "tu.nguyen"]
+ "monitorAccounts": true
 }
